@@ -1,5 +1,7 @@
 # Firefox for iOS Tab Recovery
 
+*Disclaimer: This is not an official tool and is in no way affiliated with Firefox, the Mozilla Foundation, or any of its subsidiaries*
+
 This repository contains a small dockerized Node.js tool to extract a list of open tabs from a local iOS backup. This was tested and works with a backup from Firefox 1.126.2, but may not work with backups from older versions of Firefox due to a change to the tab storage method, which happened around v1.114.
 
 ## Setup
